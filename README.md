@@ -1,16 +1,27 @@
-### Hi there 👋
+## About
 
-<!--
-**jedavidson/jedavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third year Computer Science and Advanced Mathematics student at UNSW.
 
-Here are some ideas to get you started:
+## Interests
+<ul>
+  <li>Frontend and backend development</li>
+  <li>Programming languages and formal methods</li>
+  <li>Algorithms and computational complexity theory</li>
+  <li>Pure mathematics (linear algebra and functional analysis)</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## Projects I've worked on
+<ul>
+  <li>hahaha</ul>
+  <li>should</ul>
+  <li>probably</ul>
+  <li>make</ul>
+  <li>one</ul>
+</ul>
+!-->
+
+## Contact Me
+<ul>
+  <li><a href="mailto:jedavidson2000@gmail.com">via email</a></li>
+  <li><a href="https://www.linkedin.com/in/jamesedavidson/">via LinkedIn</a></li>
+</ul>
