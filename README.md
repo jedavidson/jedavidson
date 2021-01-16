@@ -1,8 +1,8 @@
-## About
+## About 👋
 
 I'm a third year Computer Science and Advanced Mathematics student at the University of New South Wales.
 
-## Interests
+## Interests 📌
 <ul>
   <li>Frontend and backend development</li>
   <li>Programming languages and formal methods</li>
@@ -10,7 +10,7 @@ I'm a third year Computer Science and Advanced Mathematics student at the Univer
   <li>Pure mathematics (linear algebra and functional analysis)</li>
 </ul>
 
-<!-- ## Projects I've worked on
+<!-- ## Projects I've worked on 💻
 <ul>
   <li>hahaha</ul>
   <li>should</ul>
