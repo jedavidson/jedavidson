@@ -7,7 +7,7 @@ I'm a third year Computer Science and Advanced Mathematics student at the Univer
   <li>Frontend and backend development</li>
   <li>Programming languages and formal methods</li>
   <li>Algorithms and computational complexity theory</li>
-  <li>Pure mathematics (linear algebra and functional analysis)</li>
+  <li>Pure mathematics (linear algebra, functional analysis and combinatorics)</li>
 </ul>
 
 <!-- ## Projects I've worked on 💻
