@@ -5,7 +5,7 @@ I'm a third year Computer Science and Advanced Mathematics student at the Univer
 ## Interests 📌
 <ul>
   <li>Frontend and backend development</li>
-  <li>Programming languages and formal methods</li>
+  <li>Programming language theory and formal methods</li>
   <li>Algorithms and computational complexity theory</li>
   <li>Pure mathematics (linear algebra, functional analysis and combinatorics)</li>
 </ul>
