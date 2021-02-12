@@ -1,6 +1,6 @@
 ## About 👋
 
-I'm a third year Computer Science and Advanced Mathematics student at the University of New South Wales.
+I'm a third year Computer Science and Mathematics student at the University of New South Wales.
 
 ## Interests 📌
 <ul>
