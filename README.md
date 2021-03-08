@@ -4,7 +4,8 @@ I'm a third year Computer Science and Mathematics student at the University of N
 
 ## Interests 📌
 <ul>
-  <li>Frontend and backend development</li>
+  <li>Backend development</li>
+  <li>Algorithmic and high-frequency trading</li>
   <li>Programming language theory and formal methods</li>
   <li>Algorithms and computational complexity theory</li>
   <li>Pure mathematics (linear algebra, functional analysis and combinatorics)</li>
